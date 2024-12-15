@@ -1,1 +1,3 @@
-A ftp server and clinet
+# Myftp
+
+Ftp server and clinet. 
